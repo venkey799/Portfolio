@@ -26,7 +26,7 @@ function Main() {
         <a href='#connect' className=" bg-blue-500 hover:bg-blue-700 rounded-full px-6 py-4 bg-radial">Let's Connect...</a>
       </div>
       <div>
-      <div id="about" className="pt-32 my-10">
+      <div id="about" className="pt-28 my-10">
         <About />
       </div>
       <div id="projects" className="min-h-screen py-20">
